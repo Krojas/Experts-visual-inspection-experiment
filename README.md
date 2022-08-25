@@ -12,14 +12,14 @@ We hope this data can be useful for you, have fun!
 
 ## What you can find in the csv file?
 
-id: id of each subject displayed in the experiment
-ra: Right ascension of the original cutout, (in the case of simulations as they are made using real images this correspond to the coordinates of the original image)
-dec: Declination of the original cutout, (in the case of simulations as they are made using real images this correspond to the coordinates of the original image)
-subject_name: id of each subject
-class: data set to which the subjects belongs
-value: classification given by the user
-user_name: The identity of the classifiers is protected, for this reason we replace their name for "userN"
-years: years of expertise in the field of gravitational lensing
-status: Academic status at the date the experiment was performed
-confidence: how confident the user feels doing this task (question answered before performing the experiment)
-datetime: date and time that each classification was performed 
+- id: id of each subject displayed in the experiment
+- ra: Right ascension of the original cutout, (in the case of simulations as they are made using real images this correspond to the coordinates of the original image)
+- dec: Declination of the original cutout, (in the case of simulations as they are made using real images this correspond to the coordinates of the original image)
+- subject_name: id of each subject
+- class: data set to which the subjects belongs
+- value: classification given by the user
+- user_name: The identity of the classifiers is protected, for this reason we replace their name for "userN"
+- years: years of expertise in the field of gravitational lensing
+- status: Academic status at the date the experiment was performed
+- confidence: how confident the user feels doing this task (question answered before performing the experiment)
+- datetime: date and time that each classification was performed 
